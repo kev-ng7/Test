@@ -1,2 +1,2 @@
-![ER Diagram](./image/HR-System.drawio.png)
+[ER Diagram](./HR-System.drawio.png)
 
